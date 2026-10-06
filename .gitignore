@@ -1,0 +1,12 @@
+# Nix
+.envrc
+.direnv
+
+# Haskell
+dist-newstyle
+
+# Sample
+hello.sh
+docs
+greeting.txt
+greeting-link
